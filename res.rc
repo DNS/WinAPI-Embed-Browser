@@ -1,0 +1,10 @@
+1         ICON              "razor.ico"
+test1.mht HTML	DISCARDABLE	"LHL 1.mht"
+test2.mht HTML	DISCARDABLE	"LHL 2.mht"
+test3.mht HTML	DISCARDABLE	"LHL 3.mht"
+
+
+// DISCARDABLE
+/*
+Resources are loaded into memory when the program is run. However, if a resource is not in use, and if Windows does not need them immediately, resources can be optionally unloaded from memory until needed. To specify that it is okay to unload an unused resource from memory, you may list the DISCARDABLE keyword with the resource.
+*/
